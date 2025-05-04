@@ -20,6 +20,7 @@ public static partial class ReferenceAssemblies
 	[
 		"UnityEngine.UI.dll",
 		"UnityEngine.UI",
+		"System.Windows.Forms",
 	];
 
 	private static HashSet<string> BlacklistAssemblies { get; } =
